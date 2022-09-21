@@ -1,5 +1,5 @@
-OrderedDict([   ('correct_predict', 962),
-                ('accuracy', 0.962),
-                ('run_time', 2.3719739999999945),
+OrderedDict([   ('correct_predict', 964),
+                ('accuracy', 0.964),
+                ('run_time', 2.648881400000164),
                 ('base_score', 100.0),
                 ('overall_score', 100.0)])
